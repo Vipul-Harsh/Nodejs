@@ -1,3 +1,14 @@
 .ImageCard{
 margin: 10px;
+align-items: center;
+}
+.title{
+text-align: center;
+}
+.btn{
+align-items: center;
+}
+
+.btn-it{
+background: brown;
 }
